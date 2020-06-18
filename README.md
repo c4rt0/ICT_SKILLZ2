@@ -2,8 +2,8 @@
 
 After cloning the repository navigate in terminal to course-app and run :
 
-npm install
+###npm install
 
 followed by
 
-npm start
+###npm start
